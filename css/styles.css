@@ -1,0 +1,53 @@
+.index {
+    background-image: url("../img/mapa\ alola.png");
+    background-size: cover;
+    font-family: 'Syne Tactile', cursive;
+}
+
+.index a {
+    text-decoration: none;
+    color: aqua;
+}
+
+.index img {
+    width: 35%;
+}
+
+
+/*mew.html*/
+
+.mew {
+    background-color: bisque;
+    font-family: 'Syne Tactile', cursive;
+}
+
+.mew a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.mew #enlace {
+    text-align: center;
+}
+
+.mew img {
+    width: 15%;
+}
+
+.mew span {
+    background-color: pink;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+
+/*tyranitar.html*/
+
+
+/*rayquaza.html*/
+
+
+/*steelix.html*/
